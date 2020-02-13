@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74218a41-0627-43f0-ac6c-99ef7aaeae47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/goncalo/springplayground/CucumberTest/repository/SampleRepositoryMockImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/goncalo/springplayground/CucumberTest/repository/SampleRepositoryMockImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/SampleIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/SampleIntegrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/commons/SampleHttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/commons/SampleHttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/sample/SampleStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pt/goncalo/springplayground/CucumberTest/sample/SampleStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
